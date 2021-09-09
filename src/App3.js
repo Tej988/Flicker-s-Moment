@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import SearchPhoto from './Components3/SearchPhoto';
+import Photo from './Components3/Photo';
 
 function App() {
   return (
     <div className="App">
-    <SearchPhoto/>
+    <Photo/>
     </div>
   );
 }
